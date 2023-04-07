@@ -1,4 +1,4 @@
-# Sign in with Apple ID
+# Apple Pay
 
 ![](https://developer.apple.com/design/human-interface-guidelines/technologies/apple-pay/images/button-pay-with_2x.png)
 
