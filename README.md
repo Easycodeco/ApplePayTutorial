@@ -4,7 +4,7 @@
 
 ### Video Link
 
-- [Our channel on YouTube](https://www.youtube.com/channel/UCcRFkN_ZA9FLXoQham36grg "Our channel on YouTube")
+- [Our channel on YouTube](https://youtu.be/BGGcu-rRfro "Click")
 
 ### Description
 
